@@ -38,5 +38,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrikop13&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="andrikop13" /></p>
 
 <br/>
-<h2 align="left">Daily Joke!</h2>
+<h2 align="left">Daily Jokes</h2>
 <p><img align="center" src="https://readme-jokes.vercel.app/api" alt="andrikop13" /></p>
