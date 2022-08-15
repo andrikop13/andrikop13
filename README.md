@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="[https://twitter.com/andrikop13]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrikop13" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/a-andrikopoulos/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrikopoulos/" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/a_andrikop_/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_andrikop_/" height="30" width="40" /></a>
-<a href="[https://www.facebook.com/andreas.andrikopoulos.10/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andreas.andrikopoulos.10/" height="30" width="40" /></a>
+<a href="[https://twitter.com/andrikop13]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrikop13" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/a-andrikopoulos/]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrikopoulos/" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/a_andrikop_/]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_andrikop_/" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/andreas.andrikopoulos.10/]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/andreas.andrikopoulos.10/" height="30" width="40" /></a>
 </p>
 
 
