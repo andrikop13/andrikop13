@@ -33,7 +33,7 @@
 <br/>
 <h2 align="left">Github Stats:</h2>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrikop13&count_private=true&theme=tokyonight" alt="andrikop13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrikop13&theme=tokyonight" alt="andrikop13" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrikop13&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="andrikop13" /></p>
 
