@@ -7,7 +7,7 @@
 <br />
 
 - 👀 I have 4 years experience in web development, using Javascript Frameworks such as Angular, JQuery, RxJS, Node.js, React and more.
-- 🌱 I’m currently learning React and Redux. I also have built my personal portfolio in React. You can check it at <a href="https://andrikopoulosdev.com/" target="_blank">https://andrikopoulosdev.com/</a>. The code is also available <a href="https://github.com/andrikop13/my-portofolio" target="_blank">here.</a>
+- 🌱 I’m currently learning React and Redux. I also have built my personal portfolio in React. You can check it out on <a href="https://andrikopoulosdev.com/" target="_blank">https://andrikopoulosdev.com/</a>. The repo is also available <a href="https://github.com/andrikop13/my-portofolio" target="_blank">here.</a>
 - 💞️ I’m looking to collaborate on real projects that have positive impact in our society.
 - 📫 How to reach me **andreas.andrikopoulos1994@gmail.com**
 
